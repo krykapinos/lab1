@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 another change in file
+=======
+>>>>>>> branch_test
